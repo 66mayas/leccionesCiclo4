@@ -1,0 +1,9 @@
+{
+  "name": "jsasicrono",
+  "version": "0.1.0",
+  "description": "Lecciones sobre la asincronidad de javascript",
+  "main": "index.js",
+  "repository": "https://github.com/66mayas/leccionesCiclo4.git",
+  "author": "AmSa",
+  "license": "MIT"
+}
